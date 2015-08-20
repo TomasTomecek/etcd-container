@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel7
+FROM rhel7
 
 MAINTAINER Avesh Agarwal <avagarwa@redhat.com>
 
